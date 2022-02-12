@@ -1,0 +1,1 @@
+# CombinacaoLinear_Equipes
