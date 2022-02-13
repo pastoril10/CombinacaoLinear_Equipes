@@ -4,4 +4,4 @@ Um grupo de 9 amigos decidiram organizar uma pelada com 3 equipes. Os atletas e 
 Monte as equipes de forma a obter a menor diferença de habilidade entre cada uma delas, lembrando que cada jogador pode pertencer a somente uma equipe e cada equipe precisa ter exatamente 3 jogadores.
 
 
-Usando o módulo itertools e a biblioteca combinations
+*Usando o módulo itertools e a biblioteca combinations*
